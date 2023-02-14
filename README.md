@@ -8,7 +8,7 @@ MongoDB is a NoSQL, document-oriented database that allows for flexible and scal
 
 ### 🏆 Run
 
-- [http://localhost:9000/](http://localhost:9000/) username : `admin` password : `admin`
+- [http://localhost:8081/](http://localhost:8081/) username : `admin` password : `admin`
 
 ```shell
 docker-compose up -d
