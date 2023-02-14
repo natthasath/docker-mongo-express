@@ -1,4 +1,4 @@
-# 🎉 DEMO MongoDB
+# 🎉 DEMO Mongo Express
 
 MongoDB is a NoSQL, document-oriented database that allows for flexible and scalable data management. It uses JSON-like documents with optional schemas and provides features such as indexing, auto-sharding, and aggregation.
 
