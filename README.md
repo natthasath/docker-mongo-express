@@ -13,3 +13,9 @@ MongoDB is a NoSQL, document-oriented database that allows for flexible and scal
 ```shell
 docker-compose up -d
 ```
+
+### 👉🏻 Try it out
+
+```shell
+mongosh mongodb://username:password@localhost:27017/?authMechanism=DEFAULT&authSource=db
+```
